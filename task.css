@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.row{
+    height: 300px;
+}
+.row .head{
+    height: 20%;
+    padding: 10px;
+    position: sticky;
+    top: 0;
+}
+.row .body{
+    height: 80%;
+    line-height: 25px;
+    background-size: cover;
+    background-attachment: fixed;
+    padding:10px 0px;
+}
+.head h2{
+    font-size: 40px;
+}
+.body ul{
+    width: 200px;
+    background-color: rgba(0, 0, 0, 0.4);
+    border-radius: 20px;
+    padding: 10px;
+    margin-left: 50px;
+    margin-top: 40px;
+}
+.body li{
+    font-size: 20px;
+    display: block;
+    color: white;
+    text-align: center;
+}
+.A.row .head{
+    background-color: #13254b;
+    color: white;
+}
+.A.row .body{
+    background-image: url(https://www.meeting-point.com/wp-content/uploads/2019/09/America.jpg);
+}
+.B.row .head{
+    background-color: #cbc90f;
+    color: black;
+}
+.B.row .body{
+    background-image: url(https://www.holidayscalendar.com/wp-content/uploads/2021/07/Belgian-National-Day.jpg);
+}
+.C.row .head{
+    background-color: #590002;
+    color: white;
+}
+.C.row .body{
+    background-image: url(https://media.istockphoto.com/id/1178852373/photo/canadian-flag-flying-over-old-quebec-city.jpg?b=1&s=170667a&w=0&k=20&c=83crVlfiIrVw2LpAeyaNCh8ZMRbCiHWLYi50jpQv4dM=);
+}
+.D.row .head{
+    background-color: white;
+    color: black;
+}
+.D.row .body{
+    background-image: url(https://media.newyorker.com/photos/5d56c344bf32fb0008158837/1:1/w_1770,h_1770,c_limit/Borowitz--Denmark.jpg);
+}
+.E.row .head{
+    background-color: #0d317a;
+    color: white;
+}
+.E.row .body{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Palace_of_Westminster_from_the_dome_on_Methodist_Central_Hall_%28cropped%29.jpg/1000px-Palace_of_Westminster_from_the_dome_on_Methodist_Central_Hall_%28cropped%29.jpg);
+}
+.empty-place{
+    height: 510px;
+}
+.F.row .head{
+    background-color: rgb(43, 71, 163);
+    color: white;
+}
+.F.row .body{
+    background-image: url(https://i0.wp.com/scandification.com/wp-content/uploads/2019/11/Is-Finland-part-of-Scandinavia-1-scaled.jpg?fit=2200%2C1375&ssl=1);
+}
+.G.row .head{
+    background-color:rgb(0, 0, 0) ;
+    color: aliceblue;
+}
+.G.row .body{
+    background-image: url(https://think.ing.com/uploads/hero/_w1200/170426-image-germanflag.jpg);
+}
+.H.row .head{
+    background-color: rgb(116, 10, 10) ;
+    color: white;
+}
+.H.row .body{
+    background-image: url(https://cdn-live.foreignaffairs.com/sites/default/files/styles/x_large_1x/public/images/2021/07/13/RTXDUK2A.JPG?itok=INXBlDfl);
+}
+.L.row .head{
+    background-color: rgb(12, 119, 2) ;
+    color: white;
+}
+.L.row .body{
+    background-image: url(https://lp-cms-production.imgix.net/features/2017/10/beirut-sunset-lebanon-c0a80613df81.jpg);
+}
+.J.row .head{
+    background-color: rgb(255, 255, 255) ;
+    color: rgb(0, 0, 0);
+}
+.J.row .body{
+    background-image: url(https://afar.brightspotcdn.com/dims4/default/1e3e731/2147483647/strip/false/crop/1440x720+0+0/resize/1440x720!/quality/90/?url=https%3A%2F%2Fafar-media-production-web.s3.amazonaws.com%2Fbrightspot%2Fcf%2F8a%2F20b4a2c544a58be93512ad67084c%2Fbohler-japankk-4006.jpg);
+}
+.K.row .head{
+    background-color: rgb(219, 231, 47) ;
+    color: rgb(255, 255, 255);
+}
+.K.row .body{
+    background-image: url(https://minzifatravel.com/wp-content/uploads/2022/08/m2boh2Ts8pw.jpg);
+}
+.I.row .head{
+    background-color: rgb(26, 79, 224) ;
+    color: rgb(255, 255, 255);
+}
+.I.row .body{
+    background-image: url(https://www.state.gov/wp-content/uploads/2021/05/shutterstock_398496772-copy-2560x1300.jpg);
+}
+.M.row .head{
+    background-color: rgb(194, 131, 15) ;
+    color: rgb(255, 255, 255);
+}
+.M.row .body{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Sobrevuelos_CDMX_HJ2A4913_%2825514321687%29_%28cropped%29.jpg/1200px-Sobrevuelos_CDMX_HJ2A4913_%2825514321687%29_%28cropped%29.jpg);
+}
+.N.row .head{
+    background-color: rgb(4, 105, 26) ;
+    color: rgb(255, 255, 255);
+}
+.N.row .body{
+    background-image: url(https://unctad.org/sites/default/files/2022-09/2022-09-16_Shutterstock_1481073440_1200x675.jpg);
+}
